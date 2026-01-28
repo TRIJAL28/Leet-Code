@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TRIJAL28/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0137-single-number-ii](https://github.com/TRIJAL28/Leet-Code/tree/master/0137-single-number-ii) |
 | [2706-buy-two-chocolates](https://github.com/TRIJAL28/Leet-Code/tree/master/2706-buy-two-chocolates) |
 ## Greedy
 |  |
@@ -27,5 +28,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/TRIJAL28/Leet-Code/tree/master/0137-single-number-ii) |
 | [0693-binary-number-with-alternating-bits](https://github.com/TRIJAL28/Leet-Code/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
