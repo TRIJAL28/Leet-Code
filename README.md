@@ -20,6 +20,7 @@
 | [0074-search-a-2d-matrix](https://github.com/TRIJAL28/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0137-single-number-ii](https://github.com/TRIJAL28/Leet-Code/tree/master/0137-single-number-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TRIJAL28/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/TRIJAL28/Leet-Code/tree/master/0867-transpose-matrix) |
 | [2706-buy-two-chocolates](https://github.com/TRIJAL28/Leet-Code/tree/master/2706-buy-two-chocolates) |
 ## Greedy
 |  |
@@ -43,6 +44,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/TRIJAL28/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TRIJAL28/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/TRIJAL28/Leet-Code/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TRIJAL28/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/TRIJAL28/Leet-Code/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
