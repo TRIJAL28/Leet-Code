@@ -7,6 +7,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/TRIJAL28/Leet-Code/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/TRIJAL28/Leet-Code/tree/master/0069-sqrtx) |
+| [0628-maximum-product-of-three-numbers](https://github.com/TRIJAL28/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0137-single-number-ii](https://github.com/TRIJAL28/Leet-Code/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/TRIJAL28/Leet-Code/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TRIJAL28/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/TRIJAL28/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-transpose-matrix](https://github.com/TRIJAL28/Leet-Code/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/1572-matrix-diagonal-sum) |
 | [2706-buy-two-chocolates](https://github.com/TRIJAL28/Leet-Code/tree/master/2706-buy-two-chocolates) |
@@ -34,6 +36,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/TRIJAL28/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [2706-buy-two-chocolates](https://github.com/TRIJAL28/Leet-Code/tree/master/2706-buy-two-chocolates) |
 ## Bit Manipulation
 |  |
