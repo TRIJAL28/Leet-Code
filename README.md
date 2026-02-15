@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/TRIJAL28/Leet-Code/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/TRIJAL28/Leet-Code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/TRIJAL28/Leet-Code/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TRIJAL28/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
@@ -41,6 +42,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/TRIJAL28/Leet-Code/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/TRIJAL28/Leet-Code/tree/master/0137-single-number-ii) |
 | [0693-binary-number-with-alternating-bits](https://github.com/TRIJAL28/Leet-Code/tree/master/0693-binary-number-with-alternating-bits) |
 ## Divide and Conquer
@@ -64,6 +66,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TRIJAL28/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/TRIJAL28/Leet-Code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/TRIJAL28/Leet-Code/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
@@ -72,5 +75,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/TRIJAL28/Leet-Code/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/TRIJAL28/Leet-Code/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
