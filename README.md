@@ -10,6 +10,7 @@
 | [0069-sqrtx](https://github.com/TRIJAL28/Leet-Code/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TRIJAL28/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/TRIJAL28/Leet-Code/tree/master/1025-divisor-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,8 +84,14 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/TRIJAL28/Leet-Code/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/TRIJAL28/Leet-Code/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/TRIJAL28/Leet-Code/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
