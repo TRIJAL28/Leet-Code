@@ -112,4 +112,8 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/TRIJAL28/Leet-Code/tree/master/0713-subarray-product-less-than-k) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/TRIJAL28/Leet-Code/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
