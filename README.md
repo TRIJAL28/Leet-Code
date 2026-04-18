@@ -8,6 +8,7 @@
 | [0048-rotate-image](https://github.com/TRIJAL28/Leet-Code/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/TRIJAL28/Leet-Code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/TRIJAL28/Leet-Code/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/TRIJAL28/Leet-Code/tree/master/0172-factorial-trailing-zeroes) |
 | [0292-nim-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TRIJAL28/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0877-stone-game) |
