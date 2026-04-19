@@ -84,6 +84,7 @@
 | [0067-add-binary](https://github.com/TRIJAL28/Leet-Code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/TRIJAL28/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/TRIJAL28/Leet-Code/tree/master/0657-robot-return-to-origin) |
+| [2833-furthest-point-from-origin](https://github.com/TRIJAL28/Leet-Code/tree/master/2833-furthest-point-from-origin) |
 ## String Matching
 |  |
 | ------- |
@@ -152,4 +153,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/TRIJAL28/Leet-Code/tree/master/0164-maximum-gap) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/TRIJAL28/Leet-Code/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
