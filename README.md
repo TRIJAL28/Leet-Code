@@ -47,11 +47,13 @@
 | [1572-matrix-diagonal-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/1572-matrix-diagonal-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/TRIJAL28/Leet-Code/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2057-smallest-index-with-equal-value](https://github.com/TRIJAL28/Leet-Code/tree/master/2057-smallest-index-with-equal-value) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/TRIJAL28/Leet-Code/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2706-buy-two-chocolates](https://github.com/TRIJAL28/Leet-Code/tree/master/2706-buy-two-chocolates) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/TRIJAL28/Leet-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Greedy
 |  |
 | ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/TRIJAL28/Leet-Code/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2706-buy-two-chocolates](https://github.com/TRIJAL28/Leet-Code/tree/master/2706-buy-two-chocolates) |
 ## Sorting
 |  |
