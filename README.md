@@ -43,6 +43,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/TRIJAL28/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TRIJAL28/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TRIJAL28/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/TRIJAL28/Leet-Code/tree/master/0713-subarray-product-less-than-k) |
 | [0867-transpose-matrix](https://github.com/TRIJAL28/Leet-Code/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0877-stone-game) |
@@ -106,6 +107,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/TRIJAL28/Leet-Code/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/TRIJAL28/Leet-Code/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/TRIJAL28/Leet-Code/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
 |  |
@@ -143,6 +145,7 @@
 | [0020-valid-parentheses](https://github.com/TRIJAL28/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TRIJAL28/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TRIJAL28/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0682-baseball-game) |
 ## Tree
 |  |
 | ------- |
