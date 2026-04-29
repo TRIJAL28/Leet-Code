@@ -88,6 +88,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TRIJAL28/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/TRIJAL28/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TRIJAL28/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/TRIJAL28/Leet-Code/tree/master/0392-is-subsequence) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/TRIJAL28/Leet-Code/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## String
 |  |
@@ -96,6 +97,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TRIJAL28/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/TRIJAL28/Leet-Code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/TRIJAL28/Leet-Code/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/TRIJAL28/Leet-Code/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/TRIJAL28/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [2833-furthest-point-from-origin](https://github.com/TRIJAL28/Leet-Code/tree/master/2833-furthest-point-from-origin) |
 ## String Matching
@@ -113,6 +115,7 @@
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/TRIJAL28/Leet-Code/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/TRIJAL28/Leet-Code/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/TRIJAL28/Leet-Code/tree/master/1025-divisor-game) |
 ## Game Theory
