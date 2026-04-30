@@ -36,6 +36,7 @@
 | [0001-two-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TRIJAL28/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/TRIJAL28/Leet-Code/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/TRIJAL28/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0137-single-number-ii](https://github.com/TRIJAL28/Leet-Code/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/TRIJAL28/Leet-Code/tree/master/0152-maximum-product-subarray) |
@@ -59,6 +60,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0055-jump-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/TRIJAL28/Leet-Code/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2706-buy-two-chocolates](https://github.com/TRIJAL28/Leet-Code/tree/master/2706-buy-two-chocolates) |
 ## Sorting
@@ -121,6 +123,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/TRIJAL28/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/TRIJAL28/Leet-Code/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0877-stone-game) |
