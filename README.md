@@ -105,12 +105,14 @@
 | [0392-is-subsequence](https://github.com/TRIJAL28/Leet-Code/tree/master/0392-is-subsequence) |
 | [0504-base-7](https://github.com/TRIJAL28/Leet-Code/tree/master/0504-base-7) |
 | [0657-robot-return-to-origin](https://github.com/TRIJAL28/Leet-Code/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/TRIJAL28/Leet-Code/tree/master/0796-rotate-string) |
 | [2390-removing-stars-from-a-string](https://github.com/TRIJAL28/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/TRIJAL28/Leet-Code/tree/master/2833-furthest-point-from-origin) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TRIJAL28/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/TRIJAL28/Leet-Code/tree/master/0796-rotate-string) |
 ## Simulation
 |  |
 | ------- |
