@@ -94,6 +94,7 @@
 | [0125-valid-palindrome](https://github.com/TRIJAL28/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TRIJAL28/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/TRIJAL28/Leet-Code/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/TRIJAL28/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/TRIJAL28/Leet-Code/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## String
 |  |
@@ -106,6 +107,7 @@
 | [0504-base-7](https://github.com/TRIJAL28/Leet-Code/tree/master/0504-base-7) |
 | [0657-robot-return-to-origin](https://github.com/TRIJAL28/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/TRIJAL28/Leet-Code/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/TRIJAL28/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/TRIJAL28/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/TRIJAL28/Leet-Code/tree/master/2833-furthest-point-from-origin) |
 ## String Matching
@@ -119,6 +121,7 @@
 | [0067-add-binary](https://github.com/TRIJAL28/Leet-Code/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/TRIJAL28/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/TRIJAL28/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/TRIJAL28/Leet-Code/tree/master/0867-transpose-matrix) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/TRIJAL28/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
@@ -161,6 +164,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/TRIJAL28/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TRIJAL28/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/TRIJAL28/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/TRIJAL28/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
