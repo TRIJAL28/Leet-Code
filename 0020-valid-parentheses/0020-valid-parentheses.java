@@ -10,7 +10,7 @@ class Solution {
                 if(st.isEmpty()){
                     return false;
                 }
-                else if((ch==')' && st.peek()=='(') || (ch=='}' && st.peek()=='{') || (ch==']' && st.peek()=='[')){
+                else if(st.peek()=='(' && ch==')'|| st.peek()=='{' && ch=='}' || st.peek()=='[' && ch==']'){
                     st.pop();
                 }
                 else{
