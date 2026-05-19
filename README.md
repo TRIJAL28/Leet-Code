@@ -32,6 +32,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/TRIJAL28/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/TRIJAL28/Leet-Code/tree/master/0713-subarray-product-less-than-k) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/TRIJAL28/Leet-Code/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/TRIJAL28/Leet-Code/tree/master/2540-minimum-common-value) |
 ## Array
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/TRIJAL28/Leet-Code/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2057-smallest-index-with-equal-value](https://github.com/TRIJAL28/Leet-Code/tree/master/2057-smallest-index-with-equal-value) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/TRIJAL28/Leet-Code/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2540-minimum-common-value](https://github.com/TRIJAL28/Leet-Code/tree/master/2540-minimum-common-value) |
 | [2706-buy-two-chocolates](https://github.com/TRIJAL28/Leet-Code/tree/master/2706-buy-two-chocolates) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/TRIJAL28/Leet-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3861-minimum-capacity-box](https://github.com/TRIJAL28/Leet-Code/tree/master/3861-minimum-capacity-box) |
@@ -100,6 +102,7 @@
 | [0392-is-subsequence](https://github.com/TRIJAL28/Leet-Code/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/TRIJAL28/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/TRIJAL28/Leet-Code/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/TRIJAL28/Leet-Code/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -224,6 +227,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/0001-two-sum) |
+| [2540-minimum-common-value](https://github.com/TRIJAL28/Leet-Code/tree/master/2540-minimum-common-value) |
 ## Breadth-First Search
 |  |
 | ------- |
