@@ -60,6 +60,7 @@
 | [0867-transpose-matrix](https://github.com/TRIJAL28/Leet-Code/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0877-stone-game) |
 | [1572-matrix-diagonal-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/1572-matrix-diagonal-sum) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/TRIJAL28/Leet-Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/TRIJAL28/Leet-Code/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2057-smallest-index-with-equal-value](https://github.com/TRIJAL28/Leet-Code/tree/master/2057-smallest-index-with-equal-value) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/TRIJAL28/Leet-Code/tree/master/2078-two-furthest-houses-with-different-colors) |
