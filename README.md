@@ -181,6 +181,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/TRIJAL28/Leet-Code/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/TRIJAL28/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/TRIJAL28/Leet-Code/tree/master/0237-delete-node-in-a-linked-list) |
 ## Stack
 |  |
@@ -252,4 +253,8 @@
 | [0101-symmetric-tree](https://github.com/TRIJAL28/Leet-Code/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TRIJAL28/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/TRIJAL28/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/TRIJAL28/Leet-Code/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
