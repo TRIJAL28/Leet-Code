@@ -115,6 +115,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TRIJAL28/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/TRIJAL28/Leet-Code/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/TRIJAL28/Leet-Code/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/TRIJAL28/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/TRIJAL28/Leet-Code/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/TRIJAL28/Leet-Code/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/TRIJAL28/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -183,6 +184,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/TRIJAL28/Leet-Code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/TRIJAL28/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/TRIJAL28/Leet-Code/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/TRIJAL28/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
