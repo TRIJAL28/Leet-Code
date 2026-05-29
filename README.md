@@ -19,6 +19,7 @@
 | [0877-stone-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/TRIJAL28/Leet-Code/tree/master/1025-divisor-game) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/TRIJAL28/Leet-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3783-mirror-distance-of-an-integer](https://github.com/TRIJAL28/Leet-Code/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
@@ -70,6 +71,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/TRIJAL28/Leet-Code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2706-buy-two-chocolates](https://github.com/TRIJAL28/Leet-Code/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/TRIJAL28/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/TRIJAL28/Leet-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3861-minimum-capacity-box](https://github.com/TRIJAL28/Leet-Code/tree/master/3861-minimum-capacity-box) |
 ## Greedy
