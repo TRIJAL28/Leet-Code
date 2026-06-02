@@ -15,6 +15,7 @@
 | [0292-nim-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/TRIJAL28/Leet-Code/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/TRIJAL28/Leet-Code/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/TRIJAL28/Leet-Code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/TRIJAL28/Leet-Code/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TRIJAL28/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0877-stone-game) |
@@ -102,6 +103,7 @@
 | [0137-single-number-ii](https://github.com/TRIJAL28/Leet-Code/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/TRIJAL28/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
 | [0371-sum-of-two-integers](https://github.com/TRIJAL28/Leet-Code/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/TRIJAL28/Leet-Code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0693-binary-number-with-alternating-bits](https://github.com/TRIJAL28/Leet-Code/tree/master/0693-binary-number-with-alternating-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/TRIJAL28/Leet-Code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Divide and Conquer
@@ -140,6 +142,7 @@
 | [0067-add-binary](https://github.com/TRIJAL28/Leet-Code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/TRIJAL28/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/TRIJAL28/Leet-Code/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/TRIJAL28/Leet-Code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/TRIJAL28/Leet-Code/tree/master/0504-base-7) |
 | [0657-robot-return-to-origin](https://github.com/TRIJAL28/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/TRIJAL28/Leet-Code/tree/master/0796-rotate-string) |
