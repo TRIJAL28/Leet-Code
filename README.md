@@ -123,6 +123,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TRIJAL28/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/TRIJAL28/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TRIJAL28/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/TRIJAL28/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/TRIJAL28/Leet-Code/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/TRIJAL28/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/TRIJAL28/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
@@ -198,6 +199,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/TRIJAL28/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/TRIJAL28/Leet-Code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/TRIJAL28/Leet-Code/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/TRIJAL28/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/TRIJAL28/Leet-Code/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/TRIJAL28/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/TRIJAL28/Leet-Code/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -210,6 +212,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/TRIJAL28/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TRIJAL28/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TRIJAL28/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/TRIJAL28/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/TRIJAL28/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TRIJAL28/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -277,4 +280,5 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/TRIJAL28/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/TRIJAL28/Leet-Code/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/TRIJAL28/Leet-Code/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
