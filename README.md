@@ -141,6 +141,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TRIJAL28/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/TRIJAL28/Leet-Code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/TRIJAL28/Leet-Code/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/TRIJAL28/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/TRIJAL28/Leet-Code/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/TRIJAL28/Leet-Code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/TRIJAL28/Leet-Code/tree/master/0504-base-7) |
@@ -264,11 +265,13 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/TRIJAL28/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/TRIJAL28/Leet-Code/tree/master/2833-furthest-point-from-origin) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/TRIJAL28/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [2540-minimum-common-value](https://github.com/TRIJAL28/Leet-Code/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/TRIJAL28/Leet-Code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Breadth-First Search
@@ -284,4 +287,8 @@
 | [0021-merge-two-sorted-lists](https://github.com/TRIJAL28/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/TRIJAL28/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/TRIJAL28/Leet-Code/tree/master/0234-palindrome-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/TRIJAL28/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
