@@ -23,6 +23,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/TRIJAL28/Leet-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/TRIJAL28/Leet-Code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/TRIJAL28/Leet-Code/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
 |  |
@@ -175,6 +176,7 @@
 | [0392-is-subsequence](https://github.com/TRIJAL28/Leet-Code/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/TRIJAL28/Leet-Code/tree/master/1025-divisor-game) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/TRIJAL28/Leet-Code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Game Theory
 |  |
 | ------- |
@@ -291,4 +293,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/TRIJAL28/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/TRIJAL28/Leet-Code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
