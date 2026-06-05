@@ -152,6 +152,7 @@
 | [0392-is-subsequence](https://github.com/TRIJAL28/Leet-Code/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/TRIJAL28/Leet-Code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/TRIJAL28/Leet-Code/tree/master/0504-base-7) |
+| [0520-detect-capital](https://github.com/TRIJAL28/Leet-Code/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/TRIJAL28/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/TRIJAL28/Leet-Code/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/TRIJAL28/Leet-Code/tree/master/0844-backspace-string-compare) |
