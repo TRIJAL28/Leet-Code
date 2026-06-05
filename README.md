@@ -158,6 +158,7 @@
 | [0844-backspace-string-compare](https://github.com/TRIJAL28/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TRIJAL28/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TRIJAL28/Leet-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2129-capitalize-the-title](https://github.com/TRIJAL28/Leet-Code/tree/master/2129-capitalize-the-title) |
 | [2390-removing-stars-from-a-string](https://github.com/TRIJAL28/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/TRIJAL28/Leet-Code/tree/master/2833-furthest-point-from-origin) |
 ## String Matching
