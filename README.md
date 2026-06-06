@@ -20,6 +20,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/TRIJAL28/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/TRIJAL28/Leet-Code/tree/master/1025-divisor-game) |
+| [1492-the-kth-factor-of-n](https://github.com/TRIJAL28/Leet-Code/tree/master/1492-the-kth-factor-of-n) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/TRIJAL28/Leet-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -315,4 +316,8 @@
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/TRIJAL28/Leet-Code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/TRIJAL28/Leet-Code/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
