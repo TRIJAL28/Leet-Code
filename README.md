@@ -52,6 +52,7 @@
 | [0048-rotate-image](https://github.com/TRIJAL28/Leet-Code/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/TRIJAL28/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0136-single-number](https://github.com/TRIJAL28/Leet-Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/TRIJAL28/Leet-Code/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TRIJAL28/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/TRIJAL28/Leet-Code/tree/master/0152-maximum-product-subarray) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/TRIJAL28/Leet-Code/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/TRIJAL28/Leet-Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/TRIJAL28/Leet-Code/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/TRIJAL28/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
 | [0371-sum-of-two-integers](https://github.com/TRIJAL28/Leet-Code/tree/master/0371-sum-of-two-integers) |
