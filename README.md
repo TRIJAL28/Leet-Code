@@ -120,6 +120,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/TRIJAL28/Leet-Code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0693-binary-number-with-alternating-bits](https://github.com/TRIJAL28/Leet-Code/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/TRIJAL28/Leet-Code/tree/master/1009-complement-of-base-10-integer) |
+| [2595-number-of-even-and-odd-bits](https://github.com/TRIJAL28/Leet-Code/tree/master/2595-number-of-even-and-odd-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/TRIJAL28/Leet-Code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/TRIJAL28/Leet-Code/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Divide and Conquer
