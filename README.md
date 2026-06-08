@@ -68,6 +68,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/TRIJAL28/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/TRIJAL28/Leet-Code/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/TRIJAL28/Leet-Code/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/TRIJAL28/Leet-Code/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/TRIJAL28/Leet-Code/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0877-stone-game) |
@@ -225,6 +226,7 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/TRIJAL28/Leet-Code/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/TRIJAL28/Leet-Code/tree/master/0724-find-pivot-index) |
 | [2574-left-and-right-sum-differences](https://github.com/TRIJAL28/Leet-Code/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/TRIJAL28/Leet-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Linked List
