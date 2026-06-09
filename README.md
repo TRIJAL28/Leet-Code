@@ -72,6 +72,7 @@
 | [0832-flipping-an-image](https://github.com/TRIJAL28/Leet-Code/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/TRIJAL28/Leet-Code/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/TRIJAL28/Leet-Code/tree/master/0905-sort-array-by-parity) |
 | [1572-matrix-diagonal-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/TRIJAL28/Leet-Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/TRIJAL28/Leet-Code/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0164-maximum-gap](https://github.com/TRIJAL28/Leet-Code/tree/master/0164-maximum-gap) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TRIJAL28/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/TRIJAL28/Leet-Code/tree/master/0905-sort-array-by-parity) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/TRIJAL28/Leet-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TRIJAL28/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/TRIJAL28/Leet-Code/tree/master/2126-destroying-asteroids) |
@@ -153,6 +155,7 @@
 | [0832-flipping-an-image](https://github.com/TRIJAL28/Leet-Code/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/TRIJAL28/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/TRIJAL28/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/TRIJAL28/Leet-Code/tree/master/0905-sort-array-by-parity) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/TRIJAL28/Leet-Code/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/TRIJAL28/Leet-Code/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/TRIJAL28/Leet-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
