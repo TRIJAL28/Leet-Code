@@ -91,6 +91,7 @@
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/TRIJAL28/Leet-Code/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/TRIJAL28/Leet-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3689-maximum-total-subarray-value-i](https://github.com/TRIJAL28/Leet-Code/tree/master/3689-maximum-total-subarray-value-i) |
 | [3861-minimum-capacity-box](https://github.com/TRIJAL28/Leet-Code/tree/master/3861-minimum-capacity-box) |
 ## Greedy
 |  |
@@ -101,6 +102,7 @@
 | [2126-destroying-asteroids](https://github.com/TRIJAL28/Leet-Code/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TRIJAL28/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2706-buy-two-chocolates](https://github.com/TRIJAL28/Leet-Code/tree/master/2706-buy-two-chocolates) |
+| [3689-maximum-total-subarray-value-i](https://github.com/TRIJAL28/Leet-Code/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sorting
 |  |
 | ------- |
