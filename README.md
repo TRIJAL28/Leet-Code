@@ -23,6 +23,7 @@
 | [1492-the-kth-factor-of-n](https://github.com/TRIJAL28/Leet-Code/tree/master/1492-the-kth-factor-of-n) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/TRIJAL28/Leet-Code/tree/master/2549-count-distinct-numbers-on-board) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/TRIJAL28/Leet-Code/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/TRIJAL28/Leet-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/TRIJAL28/Leet-Code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -90,6 +91,7 @@
 | [2706-buy-two-chocolates](https://github.com/TRIJAL28/Leet-Code/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/TRIJAL28/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/TRIJAL28/Leet-Code/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/TRIJAL28/Leet-Code/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/TRIJAL28/Leet-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3689-maximum-total-subarray-value-i](https://github.com/TRIJAL28/Leet-Code/tree/master/3689-maximum-total-subarray-value-i) |
