@@ -97,6 +97,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/TRIJAL28/Leet-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3689-maximum-total-subarray-value-i](https://github.com/TRIJAL28/Leet-Code/tree/master/3689-maximum-total-subarray-value-i) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/TRIJAL28/Leet-Code/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3838-weighted-word-mapping](https://github.com/TRIJAL28/Leet-Code/tree/master/3838-weighted-word-mapping) |
 | [3861-minimum-capacity-box](https://github.com/TRIJAL28/Leet-Code/tree/master/3861-minimum-capacity-box) |
 ## Greedy
@@ -122,6 +123,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TRIJAL28/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2706-buy-two-chocolates](https://github.com/TRIJAL28/Leet-Code/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/TRIJAL28/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/TRIJAL28/Leet-Code/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
