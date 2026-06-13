@@ -100,6 +100,7 @@
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/TRIJAL28/Leet-Code/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3838-weighted-word-mapping](https://github.com/TRIJAL28/Leet-Code/tree/master/3838-weighted-word-mapping) |
 | [3861-minimum-capacity-box](https://github.com/TRIJAL28/Leet-Code/tree/master/3861-minimum-capacity-box) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/TRIJAL28/Leet-Code/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Greedy
 |  |
 | ------- |
@@ -154,6 +155,7 @@
 | [0832-flipping-an-image](https://github.com/TRIJAL28/Leet-Code/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/TRIJAL28/Leet-Code/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/1572-matrix-diagonal-sum) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/TRIJAL28/Leet-Code/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
 | ------- |
@@ -352,4 +354,8 @@
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/TRIJAL28/Leet-Code/tree/master/1492-the-kth-factor-of-n) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/TRIJAL28/Leet-Code/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
