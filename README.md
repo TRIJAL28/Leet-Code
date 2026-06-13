@@ -197,6 +197,7 @@
 | [2129-capitalize-the-title](https://github.com/TRIJAL28/Leet-Code/tree/master/2129-capitalize-the-title) |
 | [2390-removing-stars-from-a-string](https://github.com/TRIJAL28/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/TRIJAL28/Leet-Code/tree/master/2833-furthest-point-from-origin) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/TRIJAL28/Leet-Code/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/TRIJAL28/Leet-Code/tree/master/3838-weighted-word-mapping) |
 ## String Matching
 |  |
@@ -331,6 +332,7 @@
 | [2549-count-distinct-numbers-on-board](https://github.com/TRIJAL28/Leet-Code/tree/master/2549-count-distinct-numbers-on-board) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/TRIJAL28/Leet-Code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/TRIJAL28/Leet-Code/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/TRIJAL28/Leet-Code/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Breadth-First Search
 |  |
 | ------- |
