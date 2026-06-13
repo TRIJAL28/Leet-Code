@@ -81,6 +81,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/TRIJAL28/Leet-Code/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/TRIJAL28/Leet-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/TRIJAL28/Leet-Code/tree/master/1991-find-the-middle-index-in-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/TRIJAL28/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2057-smallest-index-with-equal-value](https://github.com/TRIJAL28/Leet-Code/tree/master/2057-smallest-index-with-equal-value) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/TRIJAL28/Leet-Code/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TRIJAL28/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -194,6 +195,7 @@
 | [0844-backspace-string-compare](https://github.com/TRIJAL28/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TRIJAL28/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TRIJAL28/Leet-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/TRIJAL28/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2129-capitalize-the-title](https://github.com/TRIJAL28/Leet-Code/tree/master/2129-capitalize-the-title) |
 | [2390-removing-stars-from-a-string](https://github.com/TRIJAL28/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/TRIJAL28/Leet-Code/tree/master/2833-furthest-point-from-origin) |
@@ -213,6 +215,7 @@
 | [0832-flipping-an-image](https://github.com/TRIJAL28/Leet-Code/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/TRIJAL28/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/TRIJAL28/Leet-Code/tree/master/0867-transpose-matrix) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/TRIJAL28/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/TRIJAL28/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [2549-count-distinct-numbers-on-board](https://github.com/TRIJAL28/Leet-Code/tree/master/2549-count-distinct-numbers-on-board) |
