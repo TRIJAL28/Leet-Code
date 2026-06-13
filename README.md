@@ -93,6 +93,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/TRIJAL28/Leet-Code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2706-buy-two-chocolates](https://github.com/TRIJAL28/Leet-Code/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/TRIJAL28/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2942-find-words-containing-character](https://github.com/TRIJAL28/Leet-Code/tree/master/2942-find-words-containing-character) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/TRIJAL28/Leet-Code/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/TRIJAL28/Leet-Code/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -199,6 +200,7 @@
 | [2129-capitalize-the-title](https://github.com/TRIJAL28/Leet-Code/tree/master/2129-capitalize-the-title) |
 | [2390-removing-stars-from-a-string](https://github.com/TRIJAL28/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/TRIJAL28/Leet-Code/tree/master/2833-furthest-point-from-origin) |
+| [2942-find-words-containing-character](https://github.com/TRIJAL28/Leet-Code/tree/master/2942-find-words-containing-character) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/TRIJAL28/Leet-Code/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/TRIJAL28/Leet-Code/tree/master/3838-weighted-word-mapping) |
 ## String Matching
