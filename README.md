@@ -96,6 +96,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/TRIJAL28/Leet-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3689-maximum-total-subarray-value-i](https://github.com/TRIJAL28/Leet-Code/tree/master/3689-maximum-total-subarray-value-i) |
+| [3838-weighted-word-mapping](https://github.com/TRIJAL28/Leet-Code/tree/master/3838-weighted-word-mapping) |
 | [3861-minimum-capacity-box](https://github.com/TRIJAL28/Leet-Code/tree/master/3861-minimum-capacity-box) |
 ## Greedy
 |  |
@@ -189,6 +190,7 @@
 | [2129-capitalize-the-title](https://github.com/TRIJAL28/Leet-Code/tree/master/2129-capitalize-the-title) |
 | [2390-removing-stars-from-a-string](https://github.com/TRIJAL28/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/TRIJAL28/Leet-Code/tree/master/2833-furthest-point-from-origin) |
+| [3838-weighted-word-mapping](https://github.com/TRIJAL28/Leet-Code/tree/master/3838-weighted-word-mapping) |
 ## String Matching
 |  |
 | ------- |
@@ -206,6 +208,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/TRIJAL28/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [2549-count-distinct-numbers-on-board](https://github.com/TRIJAL28/Leet-Code/tree/master/2549-count-distinct-numbers-on-board) |
+| [3838-weighted-word-mapping](https://github.com/TRIJAL28/Leet-Code/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
