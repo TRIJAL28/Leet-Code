@@ -79,6 +79,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/TRIJAL28/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/TRIJAL28/Leet-Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/TRIJAL28/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/TRIJAL28/Leet-Code/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/TRIJAL28/Leet-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/TRIJAL28/Leet-Code/tree/master/1991-find-the-middle-index-in-array) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0055-jump-game) |
+| [1833-maximum-ice-cream-bars](https://github.com/TRIJAL28/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/TRIJAL28/Leet-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/TRIJAL28/Leet-Code/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/TRIJAL28/Leet-Code/tree/master/2126-destroying-asteroids) |
@@ -123,6 +125,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/TRIJAL28/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/TRIJAL28/Leet-Code/tree/master/0905-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/TRIJAL28/Leet-Code/tree/master/1200-minimum-absolute-difference) |
+| [1833-maximum-ice-cream-bars](https://github.com/TRIJAL28/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/TRIJAL28/Leet-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TRIJAL28/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/TRIJAL28/Leet-Code/tree/master/2126-destroying-asteroids) |
@@ -372,4 +375,8 @@
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/TRIJAL28/Leet-Code/tree/master/3898-find-the-degree-of-each-vertex) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/TRIJAL28/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
