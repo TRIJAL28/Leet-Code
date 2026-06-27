@@ -76,6 +76,7 @@
 | [0832-flipping-an-image](https://github.com/TRIJAL28/Leet-Code/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/TRIJAL28/Leet-Code/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/TRIJAL28/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/TRIJAL28/Leet-Code/tree/master/0905-sort-array-by-parity) |
 | [1004-max-consecutive-ones-iii](https://github.com/TRIJAL28/Leet-Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/TRIJAL28/Leet-Code/tree/master/1200-minimum-absolute-difference) |
@@ -261,6 +262,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TRIJAL28/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/TRIJAL28/Leet-Code/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/TRIJAL28/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/TRIJAL28/Leet-Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TRIJAL28/Leet-Code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
@@ -354,6 +356,7 @@
 | [0001-two-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TRIJAL28/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/TRIJAL28/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/TRIJAL28/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [2540-minimum-common-value](https://github.com/TRIJAL28/Leet-Code/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/TRIJAL28/Leet-Code/tree/master/2549-count-distinct-numbers-on-board) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/TRIJAL28/Leet-Code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
