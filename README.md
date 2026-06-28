@@ -207,6 +207,7 @@
 | [0796-rotate-string](https://github.com/TRIJAL28/Leet-Code/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/TRIJAL28/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TRIJAL28/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/TRIJAL28/Leet-Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TRIJAL28/Leet-Code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/TRIJAL28/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2129-capitalize-the-title](https://github.com/TRIJAL28/Leet-Code/tree/master/2129-capitalize-the-title) |
@@ -264,6 +265,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/TRIJAL28/Leet-Code/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/TRIJAL28/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/TRIJAL28/Leet-Code/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/TRIJAL28/Leet-Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TRIJAL28/Leet-Code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
@@ -357,6 +359,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/TRIJAL28/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/TRIJAL28/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/TRIJAL28/Leet-Code/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/TRIJAL28/Leet-Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2540-minimum-common-value](https://github.com/TRIJAL28/Leet-Code/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/TRIJAL28/Leet-Code/tree/master/2549-count-distinct-numbers-on-board) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/TRIJAL28/Leet-Code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
