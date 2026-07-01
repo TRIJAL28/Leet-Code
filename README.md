@@ -302,6 +302,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/TRIJAL28/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TRIJAL28/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TRIJAL28/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/TRIJAL28/Leet-Code/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/TRIJAL28/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/TRIJAL28/Leet-Code/tree/master/0844-backspace-string-compare) |
@@ -384,6 +385,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/TRIJAL28/Leet-Code/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/TRIJAL28/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 ## Enumeration
 |  |
@@ -401,4 +403,8 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/TRIJAL28/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/TRIJAL28/Leet-Code/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
