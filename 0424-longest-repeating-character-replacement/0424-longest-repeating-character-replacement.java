@@ -10,12 +10,12 @@
             int right=0;
             int maxlen=0;
             int maxfreq=0;
-            int idxc=0;
+            // int idxc=0;
             while(right<ch.length){
                 int idx=ch[right]-'a';
-                if(freq[idx]==0){
-                    idxc++;
-                }
+                // if(freq[idx]==0){
+                //     idxc++;
+                // }
                 freq[idx]++;
                 maxfreq=Math.max(maxfreq,freq[idx]);
                 
