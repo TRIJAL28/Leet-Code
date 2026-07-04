@@ -1,6 +1,6 @@
     class Solution {
         public int characterReplacement(String s, int k) {
-            //s=s.toLowerCase();
+            s=s.toLowerCase();
             int[] freq=new int[26];
             char[] ch=new char[s.length()];
             for(int i=0;i<s.length();i++){
@@ -12,7 +12,7 @@
             int maxfreq=0;
             // int idxc=0;
             while(right<ch.length){
-                int idx=ch[right]-'A';
+                int idx=ch[right]-'a';
                 // if(freq[idx]==0){
                 //     idxc++;
                 // }
@@ -20,7 +20,7 @@
                 maxfreq=Math.max(maxfreq,freq[idx]);
                 
                 while(((right-left+1)-maxfreq)>k){
-                    int idx2=ch[left]-'A';
+                    int idx2=ch[left]-'a';
                     freq[idx2]--;
                     // if(freq[idx2]==0){
                     //     idxc--;
