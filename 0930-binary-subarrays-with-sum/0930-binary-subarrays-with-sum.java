@@ -3,16 +3,12 @@ class Solution {
         // int left=0;
         // int right=0;
         // int count=0;
-        // int sum=0;
+        // //int sum=0;
         // while(right<nums.length){
+        //     int sum=0;
         //     sum+=nums[right];
         //     if(sum==goal){
         //         count++;
-        //     }
-        //     while(sum>goal){
-        //         sum=sum-nums[left];
-        //         //nums[left]--;
-        //         left++;
         //     }
         //     right++;
         // }
