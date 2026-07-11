@@ -26,6 +26,7 @@
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/TRIJAL28/Leet-Code/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/TRIJAL28/Leet-Code/tree/master/2549-count-distinct-numbers-on-board) |
+| [3099-harshad-number](https://github.com/TRIJAL28/Leet-Code/tree/master/3099-harshad-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/TRIJAL28/Leet-Code/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/TRIJAL28/Leet-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
