@@ -30,6 +30,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/TRIJAL28/Leet-Code/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/TRIJAL28/Leet-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/TRIJAL28/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/TRIJAL28/Leet-Code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/TRIJAL28/Leet-Code/tree/master/3783-mirror-distance-of-an-integer) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/TRIJAL28/Leet-Code/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -406,6 +407,7 @@
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/TRIJAL28/Leet-Code/tree/master/1492-the-kth-factor-of-n) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/TRIJAL28/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Graph Theory
 |  |
 | ------- |
