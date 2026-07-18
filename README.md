@@ -24,6 +24,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TRIJAL28/Leet-Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/TRIJAL28/Leet-Code/tree/master/1492-the-kth-factor-of-n) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/TRIJAL28/Leet-Code/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/TRIJAL28/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/TRIJAL28/Leet-Code/tree/master/2549-count-distinct-numbers-on-board) |
 | [3099-harshad-number](https://github.com/TRIJAL28/Leet-Code/tree/master/3099-harshad-number) |
@@ -92,6 +93,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/TRIJAL28/Leet-Code/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/TRIJAL28/Leet-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/TRIJAL28/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/TRIJAL28/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/TRIJAL28/Leet-Code/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/TRIJAL28/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2057-smallest-index-with-equal-value](https://github.com/TRIJAL28/Leet-Code/tree/master/2057-smallest-index-with-equal-value) |
@@ -407,6 +409,7 @@
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/TRIJAL28/Leet-Code/tree/master/1492-the-kth-factor-of-n) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/TRIJAL28/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TRIJAL28/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Graph Theory
 |  |
