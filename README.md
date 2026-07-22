@@ -213,6 +213,7 @@
 | [0504-base-7](https://github.com/TRIJAL28/Leet-Code/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/TRIJAL28/Leet-Code/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/TRIJAL28/Leet-Code/tree/master/0657-robot-return-to-origin) |
+| [0771-jewels-and-stones](https://github.com/TRIJAL28/Leet-Code/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/TRIJAL28/Leet-Code/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/TRIJAL28/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TRIJAL28/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -374,6 +375,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/TRIJAL28/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/TRIJAL28/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/TRIJAL28/Leet-Code/tree/master/0424-longest-repeating-character-replacement) |
+| [0771-jewels-and-stones](https://github.com/TRIJAL28/Leet-Code/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/TRIJAL28/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TRIJAL28/Leet-Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
