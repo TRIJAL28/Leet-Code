@@ -31,6 +31,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/TRIJAL28/Leet-Code/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/TRIJAL28/Leet-Code/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3536-maximum-product-of-two-digits](https://github.com/TRIJAL28/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TRIJAL28/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/TRIJAL28/Leet-Code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/TRIJAL28/Leet-Code/tree/master/3783-mirror-distance-of-an-integer) |
@@ -146,6 +147,7 @@
 | [2706-buy-two-chocolates](https://github.com/TRIJAL28/Leet-Code/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/TRIJAL28/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/TRIJAL28/Leet-Code/tree/master/3467-transform-array-by-parity) |
+| [3536-maximum-product-of-two-digits](https://github.com/TRIJAL28/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/TRIJAL28/Leet-Code/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Bit Manipulation
 |  |
