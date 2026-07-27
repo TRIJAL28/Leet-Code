@@ -88,6 +88,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/TRIJAL28/Leet-Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/TRIJAL28/Leet-Code/tree/master/1200-minimum-absolute-difference) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TRIJAL28/Leet-Code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TRIJAL28/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/TRIJAL28/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/TRIJAL28/Leet-Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -139,6 +140,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/TRIJAL28/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/TRIJAL28/Leet-Code/tree/master/0905-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/TRIJAL28/Leet-Code/tree/master/1200-minimum-absolute-difference) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TRIJAL28/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/TRIJAL28/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/TRIJAL28/Leet-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TRIJAL28/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -430,4 +432,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/TRIJAL28/Leet-Code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/TRIJAL28/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TRIJAL28/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
