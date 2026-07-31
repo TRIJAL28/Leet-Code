@@ -104,6 +104,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/TRIJAL28/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/TRIJAL28/Leet-Code/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TRIJAL28/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/TRIJAL28/Leet-Code/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2540-minimum-common-value](https://github.com/TRIJAL28/Leet-Code/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/TRIJAL28/Leet-Code/tree/master/2549-count-distinct-numbers-on-board) |
 | [2574-left-and-right-sum-differences](https://github.com/TRIJAL28/Leet-Code/tree/master/2574-left-and-right-sum-differences) |
@@ -165,6 +166,7 @@
 | [0832-flipping-an-image](https://github.com/TRIJAL28/Leet-Code/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/TRIJAL28/Leet-Code/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TRIJAL28/Leet-Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/TRIJAL28/Leet-Code/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2595-number-of-even-and-odd-bits](https://github.com/TRIJAL28/Leet-Code/tree/master/2595-number-of-even-and-odd-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/TRIJAL28/Leet-Code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/TRIJAL28/Leet-Code/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
