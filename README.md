@@ -9,6 +9,7 @@
 | [0007-reverse-integer](https://github.com/TRIJAL28/Leet-Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TRIJAL28/Leet-Code/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/TRIJAL28/Leet-Code/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/TRIJAL28/Leet-Code/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/TRIJAL28/Leet-Code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/TRIJAL28/Leet-Code/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TRIJAL28/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -261,6 +262,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/TRIJAL28/Leet-Code/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/TRIJAL28/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/TRIJAL28/Leet-Code/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/TRIJAL28/Leet-Code/tree/master/0509-fibonacci-number) |
@@ -450,4 +452,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/TRIJAL28/Leet-Code/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/TRIJAL28/Leet-Code/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
