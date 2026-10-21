@@ -78,6 +78,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TRIJAL28/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TRIJAL28/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/TRIJAL28/Leet-Code/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/TRIJAL28/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TRIJAL28/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TRIJAL28/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/TRIJAL28/Leet-Code/tree/master/0682-baseball-game) |
@@ -143,6 +144,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/TRIJAL28/Leet-Code/tree/master/0164-maximum-gap) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/TRIJAL28/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TRIJAL28/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/TRIJAL28/Leet-Code/tree/master/0905-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/TRIJAL28/Leet-Code/tree/master/1200-minimum-absolute-difference) |
@@ -395,6 +397,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/TRIJAL28/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/TRIJAL28/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/TRIJAL28/Leet-Code/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/TRIJAL28/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/TRIJAL28/Leet-Code/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/TRIJAL28/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/TRIJAL28/Leet-Code/tree/master/0930-binary-subarrays-with-sum) |
